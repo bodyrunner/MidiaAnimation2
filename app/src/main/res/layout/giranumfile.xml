@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/roda0" android:duration="200"></item>
+    <item android:drawable="@drawable/roda1" android:duration="200"></item>
+    <item android:drawable="@drawable/roda2" android:duration="200"></item>
+    <item android:drawable="@drawable/roda3" android:duration="200"></item>
+    <item android:drawable="@drawable/roda4" android:duration="200"></item>
+    <item android:drawable="@drawable/roda5" android:duration="200"></item>
+    <item android:drawable="@drawable/roda6" android:duration="200"></item>
+    <item android:drawable="@drawable/roda7" android:duration="200"></item>
+    <item android:drawable="@drawable/roda8" android:duration="200"></item>
+    <item android:drawable="@drawable/roda9" android:duration="200"></item>
+</animation-list>
